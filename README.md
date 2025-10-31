@@ -96,7 +96,7 @@ I'm hireable for:
 
 📬 **Get in Touch:**  
 - Email: [helloviopulse@gmail.com]  
-- Portfolio: [viopulse.netlify.app)  
+- Portfolio: [viopulse.netlify.app]  
 
 ---
 
