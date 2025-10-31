@@ -1,9 +1,10 @@
-# 🚀 VioPulse - VioPulse is my solo lab for building AI tools, automations, and systems that turn raw ideas into smooth, scalable, and functional prototypes that just work.  
+# 🚀 VioPulse  
 *I build the systems behind your vision.*
 
 ---
 
 ### 💡 Beyond the Prototype  
+VioPulse is my solo lab for building AI tools, automations, and systems that turn raw ideas into smooth, scalable, and functional prototypes that just work.
 I'm a systems-oriented tinkerer who bridges the gap between brilliant ideas and scalable realities.  
 I specialize in **AI tooling**, **complex automation**, and **product-sense**, delivering performant solutions that *just work.*
 
@@ -94,9 +95,8 @@ I'm hireable for:
 - System Design for Scalable Tools  
 
 📬 **Get in Touch:**  
-- Email: [your@email.com]  
-- Portfolio: [https://viopulse.dev](https://viopulse.dev)  
-- Discord: [your Discord username]  
+- Email: [helloviopulse@gmail.com]  
+- Portfolio: [viopulse.netlify.app)  
 
 ---
 
